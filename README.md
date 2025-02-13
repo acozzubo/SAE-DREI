@@ -1,4 +1,4 @@
-# SAE-DREI: Small Area Estimation for Disaggregated Race and Geography Research
+# SAE-Demographics: Small Area Estimation for Disaggregated Race and Geography Research
 
 ## Overview
 This repository contains scripts for a project analyzing best use of **Small Area Estimation (SAE) methods for sociodemographic research**. The repository is structured to facilitate the implementation of SAE methodologies in addressing research questions that involve race and geographic cross-classifications.
